@@ -19,7 +19,7 @@ layout:
 
 # 🐶 IO.NET（$IO）
 
-[<mark style="color:blue;">**官网**</mark>](https://cloud.io.net/)    <mark style="color:purple;">**文档**</mark>​
+[<mark style="color:blue;">**官网**</mark>](https://cloud.io.net/)    [<mark style="color:purple;">**文档**</mark>](https://docs.io.net/docs/inception)​
 
 ### **代币经济模型**
 
