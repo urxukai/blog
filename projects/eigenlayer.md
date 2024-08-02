@@ -21,6 +21,9 @@ layout:
 
 #### [<mark style="color:blue;">官网</mark>](https://app.eigenlayer.xyz/)    [<mark style="color:purple;">Claim</mark>](https://claims.eigenfoundation.org/)
 
+### 代币经济模型
+
+{% code overflow="wrap" %}
 ```
 # 总供应量
 16.7亿枚
@@ -31,8 +34,12 @@ layout:
 29.5% 的 EIGEN 代币将分配给投资者，
 25% 的 EIGEN 代币将分配给早期贡献者，投资者和早期贡献者的份额将分三年解锁，
 第一完全锁定，随后两年内将以每月 4% 的速度逐步释放。 
+```
+{% endcode %}
 
-# 第一季空投
+### 第一季空投
+
+```
 分配 5% 的 EIGEN 代币
 快照时间为 2024年3月15日
 claim时间 2024年5月11号凌晨1点（北京时间）
