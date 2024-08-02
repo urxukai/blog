@@ -19,9 +19,7 @@ layout:
 
 # 🐶 IO.NET（$IO）
 
-**官网：**[https://cloud.io.net/](https://cloud.io.net/)
-
-**文档地址：**[https://docs.io.net/docs/inception](https://docs.io.net/docs/inception)​
+[<mark style="color:blue;">**官网**</mark>](https://cloud.io.net/)    <mark style="color:purple;">**文档**</mark>​
 
 ### **代币经济模型**
 
