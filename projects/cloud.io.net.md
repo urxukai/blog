@@ -28,7 +28,9 @@ layout:
 # 总供应量
 10亿枚
 
-$Z 的初始流动就只有这 10%。其中，7%将根据 Z-Score 空投给 Zeta 用户；1% 给到“Solana members of strategic communities”；2% 将会给到 $Z 的质押者
+$Z 的初始流动就只有这 10%。其中，7%将根据 Z-Score 空投给 Zeta 用户；
+1% 给到“Solana members of strategic communities”；
+2% 将会给到 $Z 的质押者
 ```
 {% endcode %}
 
@@ -41,3 +43,7 @@ $Z 的初始流动就只有这 10%。其中，7%将根据 Z-Score 空投给 Zeta
 占比：8%
 申领：8416
 ```
+
+### 收益计算（2024-05-05）
+
+<figure><img src="../.gitbook/assets/Pasted Graphic 1.png" alt=""><figcaption></figcaption></figure>
