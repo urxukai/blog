@@ -20,5 +20,5 @@ layout:
 
 # 🦊 NX Finance
 
-#### [官网](https://nxfinance.io/)    [文档](https://nx-finance.gitbook.io/nx-finance-whitepaper)
+#### [<mark style="color:blue;">官网</mark>](https://nxfinance.io/)    [<mark style="color:purple;">文档</mark>](https://nx-finance.gitbook.io/nx-finance-whitepaper)
 
