@@ -2,10 +2,14 @@
 
 * [😀 Welcome](README.md)
 
-## Projects
+## Solana
 
-* [🐭 EigenLayer](projects/eigenlayer.md)
-* [🐶 IO.NET（$IO）](projects/io.net.md)
-* [🦊 NX Finance](projects/nx-finance.md)
-* [🐱 Zeta Markets（$ZEX）](projects/cloud.io.net.md)
-* [🐰 Drift](projects/drift.md)
+* [🐶 IO.NET（$IO）](solana/io.net.md)
+* [🦊 NX Finance](solana/nx-finance.md)
+* [🐱 Zeta Markets（$ZEX）](solana/cloud.io.net.md)
+* [🐰 Drift](solana/drift.md)
+* [🐸 Solayer](solana/solayer.md)
+
+## ETH
+
+* [🐭 EigenLayer](eth/eigenlayer.md)
