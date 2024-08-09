@@ -19,7 +19,7 @@ layout:
 
 # 🐱 Zeta Markets（$ZEX）
 
-#### [<mark style="color:blue;">官网</mark>](https://dex.zeta.markets/)    [<mark style="color:purple;">文档</mark>](https://docs.zeta.markets/)    [<mark style="color:orange;">白皮书</mark>](https://zeta-foundation.gitbook.io/zeta-foundation/whitepaper)
+[zeta.markets](https://www.zeta.markets/)    [White Paper](https://zeta-foundation.gitbook.io/zeta-foundation/whitepaper)
 
 ### 代币经济模型
 

@@ -19,7 +19,7 @@ layout:
 
 # 🐭 EigenLayer
 
-#### [<mark style="color:blue;">官网</mark>](https://app.eigenlayer.xyz/)    [<mark style="color:purple;">Claim</mark>](https://claims.eigenfoundation.org/)
+[eigenlayer.xyz](https://www.eigenlayer.xyz/)    [Claim](https://claims.eigenfoundation.org/)
 
 ### 代币经济模型
 

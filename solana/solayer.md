@@ -22,4 +22,4 @@ layout:
 
 # 🐸 Solayer
 
-[<mark style="color:blue;">官网</mark>](https://app.solayer.org/)    [<mark style="color:purple;">Twitter</mark>](https://x.com/solayer\_labs)    [<mark style="color:orange;">Gitbook</mark>](https://docs.solayer.org/)
+[solayer.org](https://solayer.org/)    [Twitter](https://x.com/solayer\_labs)    [Gitbook](https://docs.solayer.org/)
