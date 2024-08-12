@@ -9,6 +9,7 @@
 * [🐱 Zeta Markets（$ZEX）](solana/cloud.io.net.md)
 * [🐰 Drift](solana/drift.md)
 * [🐸 Solayer](solana/solayer.md)
+* [🪖 deBridge](solana/debridge.md)
 
 ## ETH
 
